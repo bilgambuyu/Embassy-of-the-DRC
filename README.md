@@ -11,25 +11,6 @@
 
 ---
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
-- [Pages & Functionality](#pages--functionality)
-- [Design Philosophy](#design-philosophy)
-- [Installation & Local Development](#installation--local-development)
-- [Deployment](#deployment)
-- [Browser Compatibility](#browser-compatibility)
-- [Performance Optimization](#performance-optimization)
-- [Future Enhancements](#future-enhancements)
-- [Credits & Acknowledgments](#credits--acknowledgments)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Overview
 
 This is the **official diplomatic website** for the Embassy of the Democratic Republic of the Congo (DRC) to the United Nations Office at Geneva and other international organizations in Switzerland.
