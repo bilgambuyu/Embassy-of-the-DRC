@@ -7,7 +7,7 @@
 
 **Live Demo:** [embassydrc.netlify.app](https://embassydrc.netlify.app/#)
 
-![Embassy DRC Geneva Website](screenshots/homepage-preview.png)
+![Embassy DRC Geneva Website](screenshot-website.gif)
 
 ---
 
